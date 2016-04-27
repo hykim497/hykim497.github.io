@@ -1,0 +1,75 @@
+body {
+	background-color: black;
+}
+#so {
+	font-family: "Lora", serif;
+	font-size: 230px;
+	color: black;
+	text-shadow: -3px 0px 10px #FFF, 3px 0px 10px #FFF;
+	letter-spacing: 25px;
+	position: absolute;
+	left: 29%;
+	top: 18%;
+	transform: translateX(-50%) translateY(-50%);
+}
+#do {
+	font-family: "Lora", serif;
+	font-size: 230px;
+	color: black;
+	text-shadow: -3px 0px 10px #FFF, 3px 0px 10px #FFF;
+	letter-spacing: 25px;
+	position: absolute;
+	left: 28%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+#i {
+	font-family: "Lora", serif;
+	font-size: 230px;
+	color: black;
+	text-shadow: -3px 0px 10px #FFF, 3px 0px 10px #FFF;
+	letter-spacing: 25px;
+	position: absolute;
+	left: 19%;
+	top: 80%;
+	transform: translateY(-50%);
+}
+#description {
+	position: absolute;
+	left: 29%;
+	top: 70%;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+#clink a {
+	text-decoration: none;
+}
+#kettle {
+	position: absolute;
+	left: 50%;
+	bottom: 10%;
+}
+#plink a {
+	text-decoration: none;
+}
+#plink {
+	position: absolute;
+	top: 66%;
+	left: 390px;
+	color: white;
+	font-size: 20px;
+}
+#clink {
+	position: absolute;
+	top: 66%;
+	left: 480px;
+	color: white;
+	font-size: 20px;
+}
+#hands {
+	position: absolute;
+	left: 55%;
+	bottom: 0%;
+}
