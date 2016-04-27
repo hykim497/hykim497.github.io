@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+	font-family: "Lora", serif;
+}
+#sodoi {
+	font-size: 100px;
+	color: black;
+	text-shadow: -3px 0px 10px #FFF, 3px 0px 10px #FFF;
+	letter-spacing: 20px;
+	position: absolute;
+	left: 20%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+#clink a {
+	text-decoration: none;
+}
+#kettle {
+	position: absolute;
+	left: 50%;
+	bottom: 10%;
+}
+#plink a {
+	text-decoration: none;
+}
+#plink {
+	position: absolute;
+	top: 60%;
+	left: 160px;
+	color: white;
+	font-size: 20px;
+}
+#clink {
+	position: absolute;
+	top: 60%;
+	left: 280px;
+	color: white;
+	font-size: 20px;
+}
+#hands {
+	position: absolute;
+	left: 35%;
+	bottom: 0%;
+}
