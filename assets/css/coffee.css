@@ -46,24 +46,39 @@ a {
 	left: 21%;
 	top: 68%;
 }
-.cup-container {
-	top: 81%;
-	left: 45%;
-	position: absolute;
-}
 .cup {
-	cursor: pointer;
-	margin: 5px 25px;
-}
-#symbol-container {
 	position: absolute;
+	cursor: pointer;
+	top: 81%;
+}
+#arashiyama {
+	left: 46%;
+}
+#oyheart {
+	left: 57%;
+}
+#guat {
+	left: 68%;
+}
+#dream {
+	left: 79%;
 }
 .symbols {
-	position: relative;
-	margin: 5px 31px;
-	left: 600px;
 	top: 425px;
 	display: none;
+	position: absolute;
+}
+#flower {
+	left: 638px;
+}
+#heart {
+	left: 780px;
+}
+#tree {
+	left: 930px;
+}
+#rocket {
+	left: 1078px;
 }
 .descriptions {
 	display: none;
@@ -75,17 +90,17 @@ a {
 }
 #oyheartdesc {
 	position: absolute;
-	top: 30%;
+	top: 40%;
 	left: 39%;
 }
 #guatdesc {
 	position: absolute;
-	top: 30%;
+	top: 37%;
 	left: 48%;
 }
 #dreamdesc {
 	position: absolute;
-	top: 30%;
+	top: 40%;
 	left: 57%;
 }
 .active {
