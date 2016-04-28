@@ -45,7 +45,7 @@ body {
 #description {
 	position: absolute;
 	left: 29%;
-	top: 70%;
+	top: 72%;
 	color: white;
 	font-size: 40px;
 	letter-spacing: 10px;
@@ -64,14 +64,14 @@ body {
 }
 #plink {
 	position: absolute;
-	top: 66%;
+	top: 67%;
 	left: 390px;
 	color: white;
 	font-size: 20px;
 }
 #clink {
 	position: absolute;
-	top: 66%;
+	top: 67%;
 	left: 480px;
 	color: white;
 	font-size: 20px;
