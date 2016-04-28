@@ -44,4 +44,17 @@ $("#guat").click(function() {
   $("#guatdesc").show();
 });
 
+$("#home").hover(function() {
+	$(this).css({"color": "#411f01", "text-shadow": "-2px 0px 7px #ebd3be, 2px 0px 7px #ebd3be"});
+	}, function() {
+	$(this).css({"color": "black", "text-shadow": "none"});
+});
+
+$("#people").hover(function() {
+	$(this).css({"color": "#411f01", "text-shadow": "-2px 0px 7px #ebd3be, 2px 0px 7px #ebd3be"});
+	}, function() {
+	$(this).css({"color": "black", "text-shadow": "none"});
+});
+
+
 });
